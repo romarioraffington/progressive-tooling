@@ -330,7 +330,7 @@ export default {
       },
       {
         description:
-          'Use dynamic imports to split applicatin code into separate bundles',
+          'Use dynamic imports to split application code into separate bundles',
         link: 'https://parceljs.org/code_splitting.html',
         title: 'Parcel',
         type: [dep]
